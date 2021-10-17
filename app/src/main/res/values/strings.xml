@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Sign In Demo</string>
+    <string name="txt_sign_in">Click to sign in with Google Account</string>
+    <string name="txt_sign_out">Click to sign out of Google Account</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="txt_user_name">%1$s %2$s</string>
+    <string name="img_content_description">image</string>
+</resources>
